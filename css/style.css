@@ -1,0 +1,29 @@
+body {
+    font-family: "Comic Sans MS", fantasy;
+    background-color: black
+}
+h1{
+    color: hotpink;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+p{
+    color: hotpink;
+    text-align: center;
+    font-style: italic;;
+    text-size: 40px;
+}
+li strong {
+    color: hotpink;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left-align;
+    text-transform: uppercase;
+}
+ul {
+    color: greenyellow;
+    text-align: left-align;
+}
