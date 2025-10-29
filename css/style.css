@@ -12,8 +12,13 @@ h1{
 p{
     color: hotpink;
     text-align: center;
+<<<<<<< HEAD
     font-style: italic;
     font-weight: bolder;
+=======
+    font-style: italic;;
+    text-size: 40px;
+>>>>>>> 61b0f4c6b894c198e1d46d398fe2ba80138b0623
 }
 li strong {
     color: hotpink;
